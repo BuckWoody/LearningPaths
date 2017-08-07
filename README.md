@@ -33,3 +33,17 @@ If you're ready, click one ofthe Links below to get started.
 - [Developer](https://github.com/BuckWoody/LearningPaths/tree/master/Developer)
 
 Enjoy the journey. If you find something we're missing or a Resource doesn't work, please let us know.
+
+There's more training available on Artifical Intelligence, Machine Learning and Cognitive Services here at Microsoft:
+
+| Topic | Resource
+| ----- | ---------
+| Artificial Intelligence | [Microsoft Documentation - Artifical Intelligence](https://azure.microsoft.com/en-us/services/cognitive-services/) 
+|  |[Channel 9 - Artificial Intelligence](https://channel9.msdn.com/Search?term=Artificial%20Intelligence#pubDate=year&ch9Search&lang-en=en)
+| Cognitive Services | [Microsoft Documentation - Cognitive Services](https://docs.microsoft.com/en-us/azure/cognitive-services/)
+|  | [The Microsoft Virtual Academy - Cognitive Services](https://mva.microsoft.com/search/SearchResults.aspx#!q=Cognitive%20Services&lang=1033)
+|  | [Channel 9 - Cognitive Services](https://channel9.msdn.com/Search?term=Cognitive%20Services#pubDate=all&ch9Search)
+| Machine Learning | [Microsoft Documentation - Machine Learning](https://docs.microsoft.com/en-us/azure/machine-learning/) 
+|  | [Microsoft Virtual Academy - Machine Learning](https://mva.microsoft.com/search/SearchResults.aspx#!q=Machine%20Learning&lang=1033)
+|  | [Channel 9 - Machine Learning](https://channel9.msdn.com/Search?term=Machine%20Learning#pubDate=year&ch9Search&lang-en=en)
+
