@@ -23,7 +23,7 @@ In an era when mobile phones are dominant and keypads are not always readily acc
 |Build an interactive voice response bot | Microsoft Bot Framework | This video about real world [scenarios for bots](https://channel9.msdn.com/Series/Explain/Bots-101-Scenarios-for-bots) | Bot Framework | Overview
 | | |This web page about [how the bot framework works](https://docs.microsoft.com/en-us/bot-framework/overview-how-bot-framework-works) | Bot Framework | Overview
 | | |These tutorials about creating a bot [with Node.js](https://www.youtube.com/playlist?list=PLgF-CyaX1p3Exrp9F80bSIdNdnw2iTAZp
-),[C#](https://mva.microsoft.com/en-US/training-courses/creating-bots-in-the-microsoft-bot-framework-using-c-17590)/[Visual Studio](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview
+),[C#](https://mva.microsoft.com/en-US/training-courses/creating-bots-in-the-microsoft-bot-framework-using-c-17590) /[Visual Studio](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview
 ), [Documentation](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview
 ) | Bot Framework, Node.js, Visual Studio, .NET, C#	| Beginner
 | | |These self-study courses: [Half-day Bot Bootcamp](https://github.com/michhar/bot-masterclass
