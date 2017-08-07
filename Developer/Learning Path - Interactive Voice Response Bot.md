@@ -1,4 +1,4 @@
-# Learning Path - Understanding how to create an Interactive Voice Response Bot
+# Learning Path - Creating an Interactive Voice Response Bot
 
 ## Audience: Developer
 
