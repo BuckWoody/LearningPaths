@@ -19,7 +19,7 @@ In an era when mobile phones are dominant and keypads are not always readily acc
 ### Lesson Path
 
 | Objective | Concept | Resource	| Type	| Level
-| --- | --- | --- | --- | --- | ---
+| --- | --- | --- | --- | --- 
 |Build an interactive voice response bot | Microsoft Bot Framework | This video about real world [scenarios for bots](https://channel9.msdn.com/Series/Explain/Bots-101-Scenarios-for-bots) | Video | Overview
 | | |This web page about [how the bot framework works](https://docs.microsoft.com/en-us/bot-framework/overview-how-bot-framework-works) | Web Page | Overview
 | | |Learn to create a bot [with Node.js](https://buckwoody.gitbooks.io/microsoft-ai-and-research-learning-paths/content/developer/interactive-voice-response-bot.html#),[C#](https://buckwoody.gitbooks.io/microsoft-ai-and-research-learning-paths/content/developer/interactive-voice-response-bot.html#)/[Visual Studio](https://buckwoody.gitbooks.io/microsoft-ai-and-research-learning-paths/content/developer/interactive-voice-response-bot.html#), [Documentation](https://buckwoody.gitbooks.io/microsoft-ai-and-research-learning-paths/content/developer/interactive-voice-response-bot.html#) | Videos/Web Page	| Beginner
