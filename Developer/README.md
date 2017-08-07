@@ -4,4 +4,14 @@ These Learning Paths assist the Developer in understanding how their organizatio
 
 | Learning Path | Type | Description
 | --- |  --- | ---
-| [Customer Churn Prediction using Vienna](https://github.com/BuckWoody/LearningPaths/blob/master/Data%20Scientist/Learning%20Path%20-%20Vienna%20Churn%20Analytics.md) | Solution | The aim of this solution is to demonstrate predictive churn analytics using Vienna. This solution provides an easy to use template to develop churn predictive data pipelines for retailers. The template can be used with different datasets and different definitions of churn. Retailers can avoid customer churn by using these predictions combined with proper marketing strategies.
+| [Microsoft partner learning paths](https://mspartnerlp.partner.microsoft.com/LearningPath/LearningPath/DLPaths?trackId=1697&rowId=2282) | Solution | Sharpen your skills with on-demand training for the latest Microsoft technologies. Select training below according to Microsoft products, competencies, partner type or role.
+
+You can also click one of the Links below to see other Lesson Paths.
+
+- [Executive Sponsor](https://github.com/BuckWoody/LearningPaths/tree/master/Executive%20Sponsor)
+- [IT Director](https://github.com/BuckWoody/LearningPaths/tree/master/IT%20Director)
+- [IT Architect](https://github.com/BuckWoody/LearningPaths/tree/master/IT%20Architect)
+- [Data Scientist](https://github.com/BuckWoody/LearningPaths/tree/master/Data%20Scientist)
+- [Developer](https://github.com/BuckWoody/LearningPaths/tree/master/Developer)
+
+Enjoy the journey. If you find something we're missing or a Resource doesn't work, please let us know.
