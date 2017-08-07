@@ -4,4 +4,4 @@ These Learning Paths assist the IT Architect in understanding how their organiza
 
 | Learning Path | Type | Description
 | --- |  --- | ---
-| [Name of Learning Path with Link]() | Choose One: Understanding, Architecture, Application, or Solution | Describe the Learning Path Completely here
+| [Customer Churn Prediction using Vienna](https://github.com/BuckWoody/LearningPaths/blob/master/Data%20Scientist/Learning%20Path%20-%20Vienna%20Churn%20Analytics.md) | Solution | The aim of this solution is to demonstrate predictive churn analytics using Vienna. This solution provides an easy to use template to develop churn predictive data pipelines for retailers. The template can be used with different datasets and different definitions of churn. Retailers can avoid customer churn by using these predictions combined with proper marketing strategies.
