@@ -38,7 +38,7 @@ In an era when mobile phones are dominant and keypads are not always readily acc
 | | | This blog post about [building a Skype calling bot](https://blogs.msdn.microsoft.com/tsmatsuz/2016/10/22/build-skype-calling-bot-with-microsoft-bot-framework/) | Bot Framework, Skype | Advanced | Bot development experience
 | | | This web page about how to [build IVR bot for WebChat](https://github.com/Microsoft/BotFramework-WebChat) | Bot Framework, DirectLine, Bot Emulator, WebChat | Advanced | Bot development experience
 | | Voice design best practies |This Cortana web page about [voice design best practices](https://docs.microsoft.com/en-us/cortana/design-guides/voice-design-best-practices) | Cortana, LUIS, Bot Framework | Intermediate | Bot development experience
-| | | This Cortana video about [voice skill design](https://channel9.msdn.com/Events/Build/2017/B8029) | UX, LUIS, SSML, Cortana | Intermediate | Experience developing interactive bots
+| | | This Cortana video about [voice skill design](https://channel9.msdn.com/Events/Build/2017/B8029) | UX, LUIS, SSML, Cortana | Intermediate | Bot development experience
 | | End-to-end implementation of an Interactive Voice Response bot | This solution from the [Cortana Intelligence gallery](https://gallery.cortanaintelligence.com/Solution/Interactive-Voice-Response-Bot)/[GitHub](https://github.com/Azure/cortana-intelligence-interactive-voice-response-bot) that deploys a basic Interactive Voice Response bot  | Bot Connector, Skype Calling Channel, Azure App Services, Cosmos DB, Bing Speech Service, LUIS, Azure Search, Azure SQL, Azure Storage | Intermediate | None
 
 
