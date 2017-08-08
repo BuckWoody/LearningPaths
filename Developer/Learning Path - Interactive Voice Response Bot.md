@@ -12,8 +12,8 @@ In an era when mobile phones are dominant and keypads are not always readily acc
 
 ### Lesson Path
 
-| Objective | Concept | Resource	| Technologies	| Level | Prerequisites
-| --- | --- | --- | --- | --- 
+| Objective | Concept | Resource| Technologies	| Level | Prerequisites
+| --- | --- | --- | --- | --- | ---
 |Be able to create effective bots with Microsoft Bot Framework | Applications for bots | This video about real world [scenarios for bots](https://channel9.msdn.com/Series/Explain/Bots-101-Scenarios-for-bots) | Bot Framework | Overview | None
 | | How the Bot Framework works|This web page about [how the bot framework works](https://docs.microsoft.com/en-us/bot-framework/overview-how-bot-framework-works) | Bot Framework | Overview | None
 | | Create bots, debug bots, and manage state|These tutorials about creating a bot [with Node.js](https://www.youtube.com/playlist?list=PLgF-CyaX1p3Exrp9F80bSIdNdnw2iTAZp),[C#](https://mva.microsoft.com/en-US/training-courses/creating-bots-in-the-microsoft-bot-framework-using-c-17590)/[Visual Studio](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview), [Documentation](https://docs.microsoft.com/en-us/bot-framework/dotnet/bot-builder-dotnet-overview) | Bot Framework, Node.js, Visual Studio, .NET, C#	| Beginner | Programming background
