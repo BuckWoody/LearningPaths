@@ -1,4 +1,4 @@
-# Learning Path - Microsoft Cognitive Intelligence Technologies - Understanding and Industry applications 
+# Learning Path - Understanding Microsoft Cognitive Intelligence Technologies and Industry applications 
 
 ## Audience: Executive Sponsor
 ## Type: Informational
@@ -11,7 +11,7 @@ More than any other technology that has preceded it, AI has the potential to ext
 | Objective |	Concept	| Resource | Technologies | Level | Pre-Requisites 
 | --- |	---	| --- | ---  | ---  | --- 
 | Understanding Artificial Intelligence | What is Artificial Intelligence? | [This article (by John McCarthy) written for the layman answers basic questions about artificial intelligence](http://www-formal.stanford.edu/jmc/whatisai/whatisai.html) | Artificial Intelligence | Intermediate | General Computing Knowledge
-| Microsoft AI and Cognitive Services   | Practical Applications | [This video about Project Emma is an example of Artificial Intelligence helping a Parkinson's Patient regain the use of her hands](https://blogs.microsoft.com/transform/feature/emma-can-write-again-thanks-to-prototype-watch-raising-hope-for-parkinsons-disease/#sm.0016winnm1bs8ejhvjn2q961xsnft) | Machine Learning, Artificial Intelligence, CAI | Beginner | None
+| Understanding Microsoft AI and Cognitive Services   | Practical Applications | [This video about Project Emma is an example of Artificial Intelligence helping a Parkinson's Patient regain the use of her hands](https://blogs.microsoft.com/transform/feature/emma-can-write-again-thanks-to-prototype-watch-raising-hope-for-parkinsons-disease/#sm.0016winnm1bs8ejhvjn2q961xsnft) | Machine Learning, Artificial Intelligence, CAI | Beginner | None
 |                                       | The Microsoft AI Platform | [This web page explains the AI technologies available from Microsoft](https://www.microsoft.com/en-us/AI/ai-platform) | Artifical Intelligence  | Intermediate | General Computing Background
 |  | Microsoft Cognitive Services | [This web page shows you the Cognitive Services available to your developers to use with no installation ](https://docs.microsoft.com/en-us/azure/#pivot=services&panel=cognitive) | Cognitive Services | Experienced | Computing Background (to evaluate), Programming API's (to implement)
 |  | Standards and Certifications | [This web page explains Microsoft's involvement with the "Partnership on AI" to benefit people and society ](https://www.partnershiponai.org/) | Artificial Intelligence | Beginner | None
