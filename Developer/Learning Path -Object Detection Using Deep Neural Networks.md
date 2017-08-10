@@ -17,9 +17,9 @@ We take millions of pictures everday. These include photos of our family, friend
 
 | Objective |	Concept	| Resource | Technologies | Level | Pre-Requisites 
 | --- |	---	| --- | ---  | ---  | --- 
-| Understand the basics of Deep Learning|Introduction to Deep Learning | [This course provides an introduction to Deep Neural Network](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x) | CNTK | Advanced | Basic Machine Learning methodologies
-| |Introduction to CNTK Framework.   | [This course introduces CNTK and covers implementation of Deep Neural Networks in CNTK ](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x) | CNTK | Advanced | Basic Machine Learning methodologies
-| Background: Object Detection|Introduction to Object Detection | [This document covers the basics of Object Detection in Computer Vision](http://class.inrialpes.fr/tutorials/triggs-icvss1.pdf) | | Advanced| Basic Computer Vision 
+| Understand the basics of Deep Learning|Introduction to Deep Learning | [This course provides an introduction to Deep Neural Network](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x) | CNTK | Introduction | Basic Machine Learning methodologies
+| |Introduction to CNTK Framework.   | [This course introduces CNTK and covers implementation of Deep Neural Networks in CNTK ](https://www.edx.org/course/deep-learning-explained-microsoft-dat236x) | CNTK | Introduction | Basic Machine Learning methodologies
+| Background: Object Detection|Introduction to Object Detection | [This document covers the basics of Object Detection in Computer Vision](http://class.inrialpes.fr/tutorials/triggs-icvss1.pdf) | |Intermediate| Basic Computer Vision 
 | Implement a Deep Neural Network for Object Recognition|Learn about 'Selective Search' for Object Detection.  | [This video covers the concept of "Selective Search in an image](https://www.youtube.com/watch?v=ryYuZziQ50c) | CNTK | Advanced| CNTK, Deep Neural Network
 | |Introducing R-CNNs and its use for Object Detection.| [This document covers the basics of R-CNN and how it can be used for Object Detection](https://courses.cs.washington.edu/courses/cse590v/14au/cse590v_wk1_rcnn.pdf) | | Advanced | Deep Neural Network
 | |Object Detection and Classification using Deep Neural Network and Support Vector Machines  | [This document shows an implmentation of Object detection with Deep Neural Networks and object classification using Support Vector Machines](https://github.com/Azure/ObjectDetectionUsingCntk#part-1) | CNTK| Advanced | CNTK, Deep Neural Network
