@@ -1,7 +1,7 @@
 # Learning Path - Object Detection using Deep Neural Network
 
 ## Audience: Developer
-## Type: Technical
+## Type: Information
 
 ### Summary
 We take millions of pictures everday. These include photos of our family, friends, locations, animals, objects etc. Many AI applications require identifying objects in an image for various purposes. This learning plan starts with an introduction of Deep Neural Networks and explains how it can be used to identify objects in an image.

@@ -5,9 +5,8 @@ These Learning Paths assist the Data Scientist in understanding how their organi
 
 | Learning Path | Type | Description
 | --- |  --- | ---
+| [Creating the Cortana Intelligence Solution for Personalized Offers](https://github.com/BuckWoody/LearningPaths/blob/master/Data%20Scientist/Learning%20Path%20-%20Creating%20the%20Cortana%20Intelligence%20Solution%20for%20Personalized%20Offers.md) | Solution | The Cortana Intelligence Suite provides advanced analytics tools through Microsoft Azure - data ingestion, data storage, data processing and advanced analytics components - all of the essential elements for building a personalized offer solution.
 | [Microsoft partner learning paths](https://mspartnerlp.partner.microsoft.com/LearningPath/LearningPath/DLPaths?trackId=1697&rowId=2282) | Solution | Sharpen your skills with on-demand training for the latest Microsoft technologies. Select training below according to Microsoft products, competencies, partner type or role.
-| [Creating the Cortana Intelligence Solution for Personalized Offers](inset link here once it exists) | Solution | The Cortana Intelligence Suite provides advanced analytics tools through Microsoft Azure - data ingestion, data storage, data processing and advanced analytics components - all of the essential elements for building a personalized offer solution.
-
 You can also click one of the Links below to see other Lesson Paths.
 
 - [Executive Sponsor](https://github.com/BuckWoody/LearningPaths/tree/master/Executive%20Sponsor)
