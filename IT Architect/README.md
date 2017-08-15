@@ -1,12 +1,11 @@
 Learning Paths - IT Architect
 =============================
 
-These Learning Paths assist the IT Architect in understanding how their
-organization can implement and use AI, Cognitive Services and Machine Learning.
+These Learning Paths assist the IT Architect in understanding how their organization can implement and use AI, Cognitive Services and Machine Learning.
 
 | **Learning Path**                                                 | **Type**       | **Description**                                                                                                                                                                                                                                                                                                                                  |
 |-------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Deliver an Advanced Analytics / AI Solution with Effective DevOps | Implementation | This Learning Path explores the Developer Operations (DevOps) functions that are specific to an Advanced Analytics and Cognitive Services solution implementation. It covers understanding the Data Science Process and Platform, the DevOps processes, and the DevOps Toolchain that is specific to Data Science and AI projects and solutions. |
+| [Deliver an Advanced Analytics / AI Solution with Effective DevOps](https://github.com/BuckWoody/LearningPaths/blob/master/IT%20Architect/Learning%20Path%20-%20Devops%20for%20Data%20Science.md) | Implementation | This Learning Path explores the Developer Operations (DevOps) functions that are specific to an Advanced Analytics and Cognitive Services solution implementation. It covers understanding the Data Science Process and Platform, the DevOps processes, and the DevOps Toolchain that is specific to Data Science and AI projects and solutions. |
 | Microsoft partner learning paths                                  | Solution       | Sharpen your skills with on-demand training for the latest Microsoft technologies. Select training below according to Microsoft products, competencies, partner type or role.                                                                                                                                                                    |
 
 You can also click one of the Links below to see other Lesson Paths.
