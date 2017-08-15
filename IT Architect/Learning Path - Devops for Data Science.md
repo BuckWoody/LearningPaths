@@ -11,6 +11,8 @@ Type: Implementation
 
 This Learning Path explores the Developer Operations (DevOps) functions that are
 specific to an Advanced Analytics solution implementation. It covers
+understanding the Data Science Process and Platform, the DevOps processes, and
+the DevOps Toolchain that is specific to Data Science projects and solutions.
 
 ### Lesson Path
 
