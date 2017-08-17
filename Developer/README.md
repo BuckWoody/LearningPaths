@@ -1,5 +1,4 @@
 # Learning Paths - Developer
-============================
 
 These Learning Paths assist the Developer in understanding how their organization can implement and use AI, Cognitive Services and Machine Learning.
 
