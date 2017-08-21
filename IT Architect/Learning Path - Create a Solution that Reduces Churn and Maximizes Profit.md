@@ -7,7 +7,7 @@ Type: Solution/Technical Information
 ### Summary
 In this learning path, you'll learn how to use the Team Data Science Process and the Cortana Intelligence Suite Platform to better understand your customers and be prepared for them by offering items at optimal prices and producing customized offers when customers are likely to churn.
 
-## Note: This course assumes that you have already completed or are familiar with the content within the learning path [Creating an end-to-end solution with Cortana Intelligence Suite](https://github.com/BuckWoody/LearningPaths/blob/master/IT%20Architect/Learning%20Path%20-%20Create%20a%20Solution%20with%20Cortana%20Intelligence%20Suite.md).
+###### Note: This course assumes that you have already completed or are familiar with the content within the learning path [Creating an end-to-end solution with Cortana Intelligence Suite](https://github.com/BuckWoody/LearningPaths/blob/master/IT%20Architect/Learning%20Path%20-%20Create%20a%20Solution%20with%20Cortana%20Intelligence%20Suite.md).
 
 
 ### Lesson Path
