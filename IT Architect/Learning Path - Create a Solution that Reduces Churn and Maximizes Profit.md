@@ -1,4 +1,4 @@
-Learning Path – Create a Solution that Reduces Churn and Mazimizes Proft
+Learning Path – Create a Solution that Reduces Churn and Mazimizes Profit
 =================================================================================
 Audience: IT Architect, Data Scientist
 ---------------------------------
